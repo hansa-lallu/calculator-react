@@ -1,29 +1,9 @@
-# TDD React
 
-A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
+A React app using Test-Driven Development (TDD) with Jest and Enzyme. Upon completion, you will be able to:
 
-## Local Setup
-
-```sh
-$ git clone git@github.com:calebpollman/react-calculator.git
-```
-
-```sh
-$ cd react-calculator
-```
-
-```sh
-$ npm install
-```
-
-## Run Locally
-
-```sh
-$ npm start
-```
-
-## Run Tests
-
-```sh
-$ npm test
-```
+- TDD to develop a React app with Enzyme and Jest
+- Use CSS variables for reuse and responsive design
+- Create a reusable React component that renders and functions differently based on the provided props
+- Use React PropTypes to type check component props
+- Approach an app from a responsive design perspective
+- Use the Flexible Box Module to create a flexible layout
