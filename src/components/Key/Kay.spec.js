@@ -23,4 +23,6 @@ describe('Key', () => {
     wrapper.setProps({ keyValue: 'test' });
     expect(wrapper.text()).toEqual('test');
   });
+
+  it('should render correctly', () => expect(wrapper).toMatchSnapshot());
 });
