@@ -1,7 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Key from '../Key/Key';
 import './Keypad.css';
+import Key from '../Key/Key';
+
 
 const Keypad = ({
   callOperator,
@@ -10,6 +11,7 @@ const Keypad = ({
   setOperator,
   updateDisplay,
 }) => {
+  
   const numberKeys = numbers.map(number => (
     <Key
       key={number}

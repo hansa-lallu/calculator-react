@@ -56,3 +56,12 @@ media query for tablet or smaller screen
     --calculator-width: 100%;
   }
 }
+
+/*
+app CSS reset
+*/
+
+body, div, p {
+  margin: 0;
+  padding: 0;
+}
