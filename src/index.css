@@ -4,21 +4,21 @@ app variables
 
 :root {
   /* background colors */
-  --action-key-color: #545454;
-  --action-key-color-hover: #2a2a2a;
-  --calculator-background-color: #696969;
-  --display-background-color: #1d1f1f;
-  --number-key-color: #696969;
-  --number-key-color-hover: #3f3f3f;
-  --submit-key-color: #d18800;
-  --submit-key-color-hover: #aa6e00;
+  --action-key-color: #11cab2;
+  --action-key-color-hover: #0fa18e;
+  --calculator-background-color: #1f03bb;
+  --display-background-color: #11f03bb;
+  --number-key-color: #0c69d3;
+  --number-key-color-hover: #094e9e;
+  --submit-key-color: #04e9e9;
+  --submit-key-color-hover: #10c5c5;
 
   /* font */
   --main-font: 'Orbitron', sans-serif;
 
   /* font colors */
-  --display-text-color: #23e000;
-  --key-text-color: #d3d3d3;
+  --display-text-color: #24c707;
+  --key-text-color: #1b0242;
 
   /* font sizes */
   --display-text-size: 4em;
